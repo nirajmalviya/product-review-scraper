@@ -1,6 +1,4 @@
-Here’s the updated `README.md` structure without mentioning Nykaa:
 
----
 
 # Product Review Scraper
 
